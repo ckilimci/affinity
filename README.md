@@ -1,4 +1,5 @@
-# affinity
+# affinity [![Build Status](https://travis-ci.org/ckilimci/affinity.svg?branch=master)](https://travis-ci.org/ckilimci/affinity)
+
 Set the affinity of the process thread to a specific CPU core
 
 To Compile:
